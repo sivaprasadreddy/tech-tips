@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Tech Tips'
+theme = 'hyde'
+
+[params]
+    description = "Tech Tips & Tricks"
+    themeColor = "theme-base-08"
+
+[Menus]
+    main = [
+        {Name = "Github", URL = "https://github.com/sivaprasadreddy/"},
+        {Name = "LinkedIn", URL = "https://www.linkedin.com/in/ksivaprasadreddy/"}
+    ]
