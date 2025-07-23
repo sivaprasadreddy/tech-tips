@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sivaprasadreddy.github.io/tech-tips'
 languageCode = 'en-us'
 title = 'Tech Tips'
 theme = 'hyde'
@@ -12,3 +12,7 @@ theme = 'hyde'
         {Name = "Github", URL = "https://github.com/sivaprasadreddy/"},
         {Name = "LinkedIn", URL = "https://www.linkedin.com/in/ksivaprasadreddy/"}
     ]
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
